@@ -14,9 +14,9 @@ conditioning input, the text, of the diffusion model. Thus as
 the 3D regeneration comes from ”dreaming” novel views
 using pretrained text, we call our model DreamText.
 
-Samples can bee seen at this [page](https://nazarpuriy.github.io/)
+Samples can bee seen at this [page](https://nazarpuriy.github.io/).
 
-## Code replication}\label{sec:replication}
+## Code replication
 This repository is based on this other [repository](https://github.com/ashawkey/stable-dreamfusion). Before working on Stable Diffusion, one should ensure that their computer has the CUDA libraries installed and a graphics card with at least 12 GB of memory in order to successfully run the code. Some libraries have dependencies on the others and the requirements.txt, obtained with pip freeze, might not work properly. We recommend to run it one time and then install the missing libraries manually. Also  the exact version of CUDA should be checked, and torch libraries that you need for your GPU. Our experiments were performed using Ubuntu 22.04 wich Nvidia driver version: NVIDIA-SMI 525.125.06 driver CUDA Version: 12.0 
 \newline
 
