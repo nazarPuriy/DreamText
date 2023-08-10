@@ -1,0 +1,31 @@
+{
+    "iteration": 10000,
+    "placeholder": [
+        36224,
+        2489,
+        47057,
+        41613,
+        3901,
+        16062,
+        10977,
+        22782,
+        2873,
+        3805,
+        705,
+        4306
+    ],
+    "noun": "brownie",
+    "quantifier": "a",
+    "words_list": [
+        "trapdoor",
+        "celsius",
+        "bite",
+        "treat",
+        "highland",
+        "welsh",
+        "cohort",
+        "daily",
+        "markup",
+        "product"
+    ]
+}

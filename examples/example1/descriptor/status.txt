@@ -1,0 +1,29 @@
+{
+    "iteration": 10000,
+    "placeholder": [
+        18863,
+        3717,
+        20550,
+        3055,
+        7862,
+        6298,
+        1172,
+        268,
+        620,
+        18725,
+        17111
+    ],
+    "noun": "cactus",
+    "quantifier": "a",
+    "words_list": [
+        "knitting",
+        "chicken",
+        "licence",
+        "apple",
+        "holder",
+        "adorable",
+        "take-out",
+        "pyramid",
+        "coloured"
+    ]
+}

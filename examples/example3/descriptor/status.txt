@@ -1,0 +1,29 @@
+{
+    "iteration": 10000,
+    "placeholder": [
+        5471,
+        19964,
+        16808,
+        18240,
+        2182,
+        10360,
+        980,
+        528,
+        2761,
+        10977,
+        7048
+    ],
+    "noun": "statue",
+    "quantifier": "a",
+    "words_list": [
+        "dragon",
+        "fond",
+        "merchandise",
+        "magnet",
+        "university",
+        "wholesaler",
+        "running",
+        "welsh",
+        "gray"
+    ]
+}
